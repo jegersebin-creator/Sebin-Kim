@@ -1,0 +1,5 @@
+{
+  "name": "NanoToon Generator",
+  "description": "An AI-powered 8-cut webtoon generator using Gemini Nano Banana (Flash Image). Features multi-panel prompting, style reference, and automatic image stitching.",
+  "requestFramePermissions": []
+}
